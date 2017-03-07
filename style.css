@@ -17,7 +17,6 @@ h1{
 }
 #div1, #div2, #div3 {
   border: 1px solid black;
-  border-width: thick;
   position: relative;
   width: 31.33%;
   padding-top: 20px;
@@ -28,7 +27,6 @@ h1{
 #cap1, #cap2, #cap3{
   border-bottom: 1px solid black;
   border-left: 1px solid black;
-  border-width: thick;
   position: absolute;
   top: 0;
   right: 0;
